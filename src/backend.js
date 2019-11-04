@@ -201,7 +201,7 @@ exports.gprofProc = function gprofProccess(context) {
         var displayPanel = constructPanel(context);
         pushCommandsToWebView(displayPanel);
         //panel.webview.html = getWebviewContent(JSON.stringify(gProftoJSON), srcHtmlFile); //fs.readFileSync(srcHtmlFile, 'utf8'); //getWebviewContent(JSON.stringify(gProftoJSON));
-        
+        //sample commit testing contribution
         console.log(`child process exited with code ${code} ${JSON.stringify(gProftoJSON)}`);
 
     });
