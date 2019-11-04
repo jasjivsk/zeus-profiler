@@ -1,7 +1,7 @@
 {
 	"name": "zeus",
 	"displayName": "zeus",
-	"description": "Zeus is performance anaylzer",
+	"description": "Zeus is a performance anaylzer",
 	"version": "0.0.1",
 	"engines": {
 		"vscode": "^1.39.0"
